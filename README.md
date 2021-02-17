@@ -1,3 +1,4 @@
 # mnist_colab
 
-the temporary to make "" in this file work
+because the isn't exist in colab
+the temporary to make "mnist_colab.ipynb" in this file work
